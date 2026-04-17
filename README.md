@@ -56,11 +56,6 @@ The experiment utilizes the **AI4I 2020 Predictive Maintenance Dataset** and fol
 
 ---
 
-## 🔭 Future Research
-My ongoing investigation focuses on the development of **Deterministic Guardrails** to filter verbalized non-binary responses and the utilization of **Few-Shot Calibration** to enhance numerical inference accuracy without dedicated fine-tuning.
-
----
-
 **References**
 - *Matzka, S. (2020). AI4I 2020 Predictive Maintenance Dataset.*
 - *Meta AI (2024). Llama-3.1 Technical Report.*
